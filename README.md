@@ -1,3 +1,12 @@
+# Table of contents
+* [Features](#features)
+*   [Prerequisites](#prerequisites)
+*  [Installation](#installation)
+   * [Download repo](#download-repo)
+   * [Config files](#config-files)
+   * [Install packages & start](#install-packages--start)
+*  [ToDo](#todo)
+
 ![enter image description here](https://i.imgur.com/unR9Puv.png)
 # Features
 It can turn your Philips Hue lights on and off 🤯
