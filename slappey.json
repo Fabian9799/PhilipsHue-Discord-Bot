@@ -1,0 +1,7 @@
+{
+  "name": "HueBot",
+  "language": "javascript",
+  "manager": "npm",
+  "token": "",
+  "prefix": "!"
+}
